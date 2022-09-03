@@ -15,9 +15,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-khusanrashidov-black?logo=Github&labelColor=black&style=flat-square)](https://github.com/khusanrashidov)
 [![GitLab](https://img.shields.io/badge/GitLab-khusanrashidov-purple?logo=Gitlab&labelColor=purple&style=flat-square)](https://gitlab.com/khusanrashidov)
 
-- 👋 Hi, I’m [![name](https://img.shields.io/badge/Khusan-Rashidov-800080?labelColor=800080&style=flat-square)](https://github.com/khusanrashidov) (@khusanrashidov)
+- 👋 Hi, I’m [![name](https://img.shields.io/badge/Khusan-Rashidov-800080?labelColor=800080&style=flat-square)](https://github.com/khusanrashidov) (@khusanrashidov) a .NET engineer
 - 👀 I’m interested in math and learning foreign as well as programming languages
-- ♟ I like playing chess
+- ♟ I like playing chess and sprinting
 - 🥕 I’m currently learning ![C#](https://img.shields.io/badge/-csharp-800080?style=flat-square&logo=csharp) and ![.NET](https://img.shields.io/badge/-dotnet-570861?style=flat-square&logo=dotnet)
 - 📫 How to reach me fast: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me//khusanrashidov) 
 

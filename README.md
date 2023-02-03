@@ -60,13 +60,7 @@
 <hr>
 
 ## Trophies
-<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khusanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />
-
-<hr>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Khusan Rashidov's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=khusanrashidov&bg_color=00000000&color=F8D866&line=008DF1&point=F0009C&hide_border=true" /></a>
-
-<hr>           
+<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khusanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />          
 
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

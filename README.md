@@ -22,19 +22,6 @@
 - 📫 How to reach me fast: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me//khusanrashidov) 
 
 <hr>
-<p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="stats" width="450px" height="210px" src="https://github-readme-stats.vercel.app/api?username=khusanrashidov&show_icons=true&include_all_commits=true&theme=shades-of-purple&bg_color=00000000&hide_border=true" alt="Khusan's github statistics" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="250px" height="200px" src="https://github-contribution-stats.vercel.app/api/?username=khusanrashidov" />
-</p>
-
-<hr>
-
-<p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusanrashidov&layout=compact&theme=shades-of-purple&bg_color=00000000&hide_border=true" />
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" src="https://github-readme-streak-stats.herokuapp.com/?user=khusanrashidov&theme=shades-of-purple&bg_color=00000000&hide_border=true&count_private=true" />
-</p>
-
-<hr>
 
 ## My Tech Stack
 ![CS](https://img.shields.io/badge/-CS-D5E4F3?style=flat-square&logo=csharp&logoColor=800080)
@@ -58,10 +45,7 @@
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
 
 <hr>
-
-## Trophies
-<img style alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=khusanrashidov&theme=nord&bg_color=00000000&hide_border=true&no-frame=true" />          
-
+ 
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

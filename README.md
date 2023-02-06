@@ -4,7 +4,6 @@
 [![Github](https://img.shields.io/github/followers/khusanrashidov?label=Follow%20Me&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/stars/khusanrashidov?affiliations=OWNER&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/watchers/khusanrashidov/khusanrashidov?style=social)](https://github.com/khusanrashidov)
-[![visitors](https://komarev.com/ghpvc/?username=khusanrashidov&style=flat-square&color=FF0BAC)](https://github.com/khusanrashidov)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Khusan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=white&style=flat-square)](https://www.linkedin.com/in/khusanrashidov)
 [![Mail](https://img.shields.io/badge/Gmail-rashidov.kb2030@gmail.com-red?logo=Gmail&logoColor=blue&labelColor=red&style=flat-square)](mailto:rashidov.kb2030@gmail.com)
@@ -45,7 +44,7 @@
 <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
 
 <hr>
- 
+
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

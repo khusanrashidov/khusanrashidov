@@ -45,6 +45,21 @@
 
 <hr>
 
+<h3>
+  <summary>
+    📈  &nbsp; My GitHub Stats
+  </summary> 
+  
+  <br> 
+
+  <p align="center">
+   <a href="https://github.com/khusanrashidov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khusanrashidov&show_icons=true&theme=material-palenight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusanrashidov&show_icons=true&theme=material-palenight&layout=compact" alt="khusanrashidov" />
+  </a>
+</p>
+</h3> 
+  
 <!---
 khasanrashidov/khasanrashidov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

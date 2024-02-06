@@ -1,4 +1,5 @@
-<h2 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> align='center'><samp><strong>Howdy, I am Khusan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khusan Rashidov.<img height="28px"</strong></samp></h2>
+<h2 align='center'><samp><strong>Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khusan Rashidov.<img height="28px"</strong></samp></h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 [![Github](https://img.shields.io/github/followers/khusanrashidov?label=Follow%20Me&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/stars/khusanrashidov?affiliations=OWNER&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/watchers/khusanrashidov/khusanrashidov?style=social)](https://github.com/khusanrashidov)

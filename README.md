@@ -22,8 +22,8 @@
 
   <p align="center">
    <a href="https://github.com/khusanrashidov">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khusanrashidov&show_icons=true&theme=material-palenight&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusanrashidov&show_icons=true&theme=material-palenight&layout=compact" alt="khusanrashidov" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khusanrashidov&show_icons=true&theme=material-palenight&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khusanrashidov&show_icons=true&theme=material-palenight&layout=compact" alt="khusanrashidov" />
   </a>
 </p>
 </h3> 

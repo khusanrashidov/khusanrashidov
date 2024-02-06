@@ -1,16 +1,10 @@
 <h2 align='center'><samp><strong>Howdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">, I am Khusan Rashidov.<img height="28px"</strong></samp></h2>
 
-📝✍📧 ***Feel free to contact me*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-[![Github](https://img.shields.io/github/followers/khusanrashidov?label=Follow%20Me&style=social)](https://github.com/khusanrashidov)
+  [![Github](https://img.shields.io/github/followers/khusanrashidov?label=Follow%20Me&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/stars/khusanrashidov?affiliations=OWNER&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/watchers/khusanrashidov/khusanrashidov?style=social)](https://github.com/khusanrashidov)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Khusan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=white&style=flat-square)](https://www.linkedin.com/in/khusanrashidov)
-[![Mail](https://img.shields.io/badge/Gmail-rashidov.kb2030@gmail.com-red?logo=Gmail&logoColor=blue&labelColor=red&style=flat-square)](mailto:rashidov.kb2030@gmail.com)
-[![Mail](https://img.shields.io/badge/Mail.ru-rashidov_kb@mail.ru-blue?logo=Gmail&logoColor=orange&labelColor=blue&style=flat-square)](mailto:rashidov_kb@mail.ru)
-[![Mail](https://img.shields.io/badge/uMail.uz-xusanbotirovich@umail.uz-purple?logo=Gmail&logoColor=green&labelColor=purple&style=flat-square)](mailto:xusanbotirovich@umail.uz)
-[![Mail](https://img.shields.io/badge/IUT%20email-k.rashidov@student.inha.uz-blue?logo=Gmail&logoColor=blue&labelColor=white&style=flat-square)](mailto:k.rashidov@student.inha.uz)
-[![Telegram](https://img.shields.io/badge/Telegram-khusanrashidov-blue?logo=Telegram&logoColor=blue&labelColor=white&style=flat-square)](https://t.me//khusanrashidov)
 [![GitHub](https://img.shields.io/badge/GitHub-khusanrashidov-black?logo=Github&labelColor=black&style=flat-square)](https://github.com/khusanrashidov)
 [![GitLab](https://img.shields.io/badge/GitLab-khusanrashidov-purple?logo=Gitlab&labelColor=purple&style=flat-square)](https://gitlab.com/khusanrashidov)
 

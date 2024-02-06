@@ -18,32 +18,6 @@
 - 👀 I’m interested in math and learning foreign as well as programming languages
 - ♟ I like playing chess and sprinting
 - 🥕 I’m currently learning ![C#](https://img.shields.io/badge/-csharp-800080?style=flat-square&logo=csharp) and ![.NET](https://img.shields.io/badge/-dotnet-570861?style=flat-square&logo=dotnet)
-- 📫 How to reach me fast: [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me//khusanrashidov) 
-
-<hr>
-
-## My Tech Stack
-![CS](https://img.shields.io/badge/-CS-D5E4F3?style=flat-square&logo=csharp&logoColor=800080)
-![CPP](https://img.shields.io/badge/-CPP-D5E4F3?style=flat-square&logo=cplusplus&logoColor=003297)
-<img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-D5E4F3.svg?style=flat-square&logo=c-in-hexagon&logoColor=000080">
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-68217A?style=flat-square&logo=visual-studio)
-![Windows](https://img.shields.io/badge/-Windows-055C9D?style=flat-square&logo=windows)
-![Vim](https://img.shields.io/badge/-Vim-005D04?style=flat-square&logo=vim)
-![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat-square&logo=linux&logoColor=000000)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-EFA78E?style=flat-square&logo=ubuntu)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-purple?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=E48E1A)
-![jQuery](https://img.shields.io/badge/-jQuery-ffffff?style=flat-square&logo=jquery&logoColor=blue)
-<img alt="Assembly" src="https://custom-icon-badges.herokuapp.com/badge/Assembly-7272FF.svg?style=flat-square&logo=asm-hex&logoColor=white">
-<img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-ffffff.svg?style=flat-square&logo=java&logoColor=EA2A30">
-<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-grey.svg?style=flat-square&logo=github&logoColor=white">
-
-<hr>
 
 <h3>
   <summary>
